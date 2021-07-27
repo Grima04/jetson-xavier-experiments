@@ -5,7 +5,7 @@
 
 ## Gaming
 #### Minecraft Java Edition
-* A tutorial on how to install and run Minecraft Java Edition on the Jetson Xavier NX
+* [A tutorial on how to install and run Minecraft Java Edition on the Jetson Xavier NX](https://github.com/Grima04/jetson-xavier-experiments/blob/main/minecraft-java/Minecraft.md)
 
 ## Emulation
 * Coming soon...
