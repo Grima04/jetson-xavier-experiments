@@ -12,4 +12,4 @@
 
 ## Performance Mods
 #### Running all 6 cores at their maximum frequency
-* A small tutorial on how to unlock more CPU power on your Xavier NX without needing to modify the kernel and or needing to overclock the CPU
+* [A small tutorial on how to unlock more CPU power on your Xavier NX without needing to modify the kernel and or needing to overclock the CPU](https://github.com/Grima04/jetson-xavier-experiments/blob/main/performance-mods/More-CPU-Power.md)
